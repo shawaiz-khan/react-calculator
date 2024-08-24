@@ -20,7 +20,7 @@ A simple and responsive calculator built with React and styled using Tailwind CS
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/react-calculator.git
+   git clone https://github.com/shawaiz-khan/react-calculator.git
    cd react-calculator
    ```
 
